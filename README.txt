@@ -1,18 +1,30 @@
-STUDY MATERIAL WEBSITE — GITHUB PAGES
+STUDY MATERIAL — RED NEON RESPONSIVE WEBSITE
 
-Upload index.html, style.css and script.js to the root of your GitHub repository. Keep these image files in the same folder:
-- welcome.png (hero promotional image)
-- screenshot1.png through screenshot9.png
+Upload these three files to the root of your GitHub Pages repository:
+- index.html
+- style.css
+- script.js
+
+Keep these image files in the SAME repository folder:
 - upi.png
-- sale.png, sale2.png, sale3.png, sale4.png, sale5.png (add when ready)
+- screenshot1.png through screenshot9.png
+- sale.png, sale2.png, sale3.png, sale4.png, sale5.png
 
-Payment settings in script.js:
+IMPORTANT: welcome.png is NOT used. The hero artwork is created with CSS shapes, gradients, glow and animation.
+
+Payment display:
+Payee: Gyan Kumar Gupta
 UPI ID: santoshkumarkgg321@okhdfcbank
-Payee display name: Gyan Kumar Gupta
-Telegram support: @Lustylatino
+Telegram destination is hidden from visible page content and appears as the final Continue to Telegram button after the customer completes the form steps.
 
-Pricing: 3 folders ₹100; 4–10 folders ₹200; exactly 81 folders ₹500. The 11–80 range is intentionally marked as contact admin because no price was specified.
+PRICING CONFIGURATION:
+Minimum selection: 3 folders
+3 folders: Rs 100
+4–10 folders: Rs 200
+All 81 folders: Rs 500
+11–80 folders: checkout disabled because no price was specified.
 
-IMPORTANT: GitHub Pages is static hosting. This front-end opens a Telegram chat with order details. A selected payment screenshot cannot be automatically uploaded through a normal Telegram link; the customer must attach it manually in the chat. For secure automatic proof upload, order storage and admin verification, add a trusted backend before accepting orders.
+STATIC WEBSITE LIMITATIONS:
+GitHub Pages cannot securely receive or store uploaded payment screenshots, verify payments, or send an order to an admin by itself. This page checks that a file is selected or a UTR is entered, then opens Telegram with the order text prefilled. The customer must manually attach the payment screenshot in Telegram and send the message. The final button does not mean payment is verified; admin must verify it manually before delivering folders.
 
-Only distribute lawful, consensual adult material for which you have the necessary rights and permissions. Do not publish customer personal/payment details in sales screenshots.
+Use only lawful, consensual content and do not publish customer personal or payment details in sales screenshots. Replace placeholder folder names in script.js if needed.
