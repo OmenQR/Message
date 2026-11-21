@@ -1,12 +1,26 @@
-STUDY MATERIAL WEBSITE — CONTACT + NAVIGATION + READABILITY PATCH
+STUDY MATERIAL WEBSITE — VIP MEMBERSHIP UPDATE
 
-Replace index.html, style.css and script.js in your GitHub repository with these updated files. Keep hero.png and all your existing gallery, sale and UPI image files in the same repository root.
+This ZIP updates the previous Study Material V4 website and adds a separate VIP Telegram Group Membership section.
 
-Changes:
-- Contact field accepts any non-empty contact/delivery detail: phone number, Telegram numeric ID, Telegram @username, Instagram handle, or another reachable handle. Numeric-only validation removed.
-- Admin order text labels it as customer contact/delivery ID, not necessarily a Telegram numeric ID.
-- Header navigation is fixed to the top on desktop and mobile so it stays visible while scrolling.
-- Mobile navigation remains a dropdown below the fixed header.
-- Text, form fields, labels and buttons enlarged for readability, especially on phones.
+UPLOAD TO YOUR EXISTING GITHUB REPOSITORY:
+1. Replace index.html
+2. Replace style.css
+3. Replace script.js
+4. Keep your existing image files in the repository root:
+   hero.png, upi.png, screenshot1.png through screenshot9.png,
+   sale.png, sale2.png, sale3.png, sale4.png, sale5.png
 
-Note: GitHub Pages is static hosting. It cannot itself deliver the selected payment screenshot to Telegram or verify payment. Customer must attach the screenshot manually in Telegram after opening the final contact link; admin verifies payment manually.
+VIP MEMBERSHIP FLOW:
+- VIP section shows ₹100 for 30 days.
+- Customer enters Telegram ID or phone number; username is optional.
+- UPI QR and a PAY ₹100 WITH UPI APP button are shown.
+- Customer enters UTR or selects a payment screenshot.
+- The final step opens the Telegram admin chat with a prefilled request.
+- Admin manually verifies payment and then shares the private group invite.
+
+IMPORTANT STATIC-HOSTING LIMITATION:
+GitHub Pages is static hosting. It cannot securely receive payment screenshots, verify UPI payments, store orders, or automatically send group invites. If a customer selects a screenshot, the browser only keeps it locally; the customer must attach that screenshot manually in Telegram after the chat opens. Payment verification and group invitation are manual.
+
+UPI payee: Gyan Kumar Gupta
+UPI ID: santoshkumarkgg321@okhdfcbank
+Admin Telegram: @Lustylatino
