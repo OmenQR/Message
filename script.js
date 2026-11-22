@@ -6,15 +6,15 @@ const grid=$('folderGrid');
 
 // Edit these names whenever you want. Keep the list in the same order as folder numbers.
 const folderNames = [
-  'Folder 1', 'Folder 2', 'Folder 3', 'Folder 4', 'Folder 5', 'Folder 6', 'Folder 7', 'Folder 8', 'Folder 9',
-  'Folder 10', 'Folder 11', 'Folder 12', 'Folder 13', 'Folder 14', 'Folder 15', 'Folder 16', 'Folder 17', 'Folder 18',
-  'Folder 19', 'Folder 20', 'Folder 21', 'Folder 22', 'Folder 23', 'Folder 24', 'Folder 25', 'Folder 26', 'Folder 27',
-  'Folder 28', 'Folder 29', 'Folder 30', 'Folder 31', 'Folder 32', 'Folder 33', 'Folder 34', 'Folder 35', 'Folder 36',
-  'Folder 37', 'Folder 38', 'Folder 39', 'Folder 40', 'Folder 41', 'Folder 42', 'Folder 43', 'Folder 44', 'Folder 45',
-  'Folder 46', 'Folder 47', 'Folder 48', 'Folder 49', 'Folder 50', 'Folder 51', 'Folder 52', 'Folder 53', 'Folder 54',
-  'Folder 55', 'Folder 56', 'Folder 57', 'Folder 58', 'Folder 59', 'Folder 60', 'Folder 61', 'Folder 62', 'Folder 63',
-  'Folder 64', 'Folder 65', 'Folder 66', 'Folder 67', 'Folder 68', 'Folder 69', 'Folder 70', 'Folder 71', 'Folder 72',
-  'Folder 73', 'Folder 74', 'Folder 75', 'Folder 76', 'Folder 77', 'Folder 78', 'Folder 79', 'Folder 80', 'Folder 81'
+  'Desi c.-334MB', 'Sleeping S!s rec (indian)-873MB', 'best mom son-1.7GB', 'mum son 8 ind 166 videos-1.3GB', 'Cipi-8-1.9GB', 'C9-343MB', 'C5-429MB', 'C1-646MB', 'hot sℹ️s-519MB',
+  'tied up collection-1.4GB', 'mom & son-1.7GB', 'PEDMOM 1 68v-1.9GB', 'Indian pedomom-469MB', 'CP📂26 107 videos-1.6GB', '12-366MB', '13-172MB', '14-350MB', '15-398MB',
+  '18-366MB', '11-572MB', '10-174MB', 'Indian ccp2-874MB', 'Cp 6 by- D1pak-691MB', '1.5GB Cp by rxgnar-1.5GB', 'Foreign Cp-1.7GB', 'Foreign Cp2-1.2GB', 'cpp4-840MB',
+  'TEEN cpp2-1.1GB', 'New CPP hot collection-1.6GB', 'New c.p. premium collection (2)-1.5GB', 'Teen Cpp2-1.1GB', 'Ind cpp1-1.0GB', 'sis 7-350MB', 'sis 5-485MB', 'sis 6-698MB', 'INDIAN ciipii DATABASE - 1-1.5GB',
+  'Indian_simpi @dd_free_dishh-1.7GB', 'rp2-620MB', 'rp3-458MB', 'Rp 5-542MB', 'rp 1-499MB', 'real sℹ️s 2-408MB', 'real sℹ️s 3-664MB', 'jungle RP special-518MB', 'premium Rp @roman69-486MB',
+  'cipii1-264MB', '100 VIDEO CP (1)-600MB', 'Desi c-334MB', 'Indian Cp1-697MB', 'NEW CP 21 (110 Vids)-1.3GB', 'NEW CP 19 (160 Vids)-1.1GB', 'best CP collection-889MB', 'CP 10 ind 26 videos-1.8GB', 'indian cp-17MB',
+  'F#RECD-1.8GB', 'Pakistani bro sis-96MB', 'INDIAN ciipii DATABASE - 1-1.5GB', 'Indian_simpi @dd_free_dishh-1.7GB', 'Sleeping S!s rec (indian)-873MB', 'Siss 2-945MB', 'best br0 s!s by raxgnar-1.4GB', 'real RP2-1GB', 'new RP folder-882MB',
+  'best RP by rxgnar-1GB', 'teen Rp1-1.6GB', 'grapexrapz1-1.4GB', '5 must primium ©️ 𝙋 collection ❤️-941MB', '4 must primium ©️ 𝙋 collection ❤️-1.2GB', '2 must primium ©️ 𝙋 collection 💖-1.5GB', '1 must primium ©️ 𝙋 collection 💖 (2)-1.2GB', 'Forced new-1.9GB', 'sipi-7-1.9GB',
+  'INDIAN rpp DATABASE - 5-1.2GB', 'INDIAN insict 📁2-1.2GB', 'INDIAN 🍇 2-620MB', '10 new ©️🅿️ collections 💔1.2GB', 'new c.p primium collection 2🥰-1.1GB', 'NEW CP HOT COLLECTION-1.4GB', 'Exclusive Desi Rape-1.2GB', '(14) 100 VIDEO FILE ⚠️-875MB', 'best mom son-1.7GB'
 ];
 
 // Require an explicit 18+ confirmation before exposing any page content.
